@@ -1,4 +1,4 @@
-def main():
+def pideUnNum():
     msg = "Dame un num: "
     entrada = ''
     invalido = False
