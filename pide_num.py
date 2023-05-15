@@ -8,3 +8,6 @@ def pideUnNum():
         invalido = True
         entrada = input(msg)
     return int(entrada)
+
+if __name__ == "__main__":
+    print(pideUnNum())
